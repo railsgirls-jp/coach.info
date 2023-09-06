@@ -5,7 +5,7 @@
 * コーチをしていてはまったところや、次に開催されるRailsGirlsのコーチへ伝えたいことをissueにしてください
 * issueは、問題、テーマ毎になるべく細かく分けてください
 * issueには次の情報を必ず記入してください：OS、OSのバージョン、Rubyのバージョン、Railsのバージョン
-* ガイド側の更新が必要な場合は、遠慮なく https://github.com/railsgirls-jp/railsgirls-jp.github.io へpull reqしてください
+* ガイド側の更新が必要な場合は、遠慮なく https://github.com/railsgirls-jp/railsgirls.jp へpull reqしてください
 * ガイドが更新されたり、バージョンが変わったりして不要になったissueは、気がついた人がissueをcloseしてください
 
 issueテンプレート：  
